@@ -1,7 +1,7 @@
 {
   "name": "@razzp/tween",
   "author": "Robert Wells",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A tiny and efficient utility to tween between two values",
   "keywords": [
     "javascript",
