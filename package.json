@@ -44,6 +44,9 @@
     "preset": "ts-jest",
     "testEnvironment": "node"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^14.1.0",
     "@rollup/plugin-typescript": "^8.5.0",
